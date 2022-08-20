@@ -2,7 +2,7 @@
 
 - Java를 이용한 회원관리 프로그램입니다.
 - DB는 H2을 사용했고 JDBC를 이용했습니다.
-- [프로젝트 회고록](https://ddungi.github.io/project/2022/05/14/javatoyproject/)
+- [프로젝트 회고록](https://iheese.github.io/project/2022/05/14/javatoyproject/)
 - 아이디(MEMBER_ID), 이름(NAME), 전화번호(PHONE_NUMBER)를 받아 회원가입을 진행할 수 있습니다.
 - 콘솔을 통해 DB 조회, 등록, 수정(전화번호 수정), 삭제가 가능하게 했습니다. 
 - 유효성 확인 기능을 추가하였습니다.
